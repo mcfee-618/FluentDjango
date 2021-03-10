@@ -1,0 +1,10 @@
+*.pyc
+*.rdb
+*.pyo
+*.log
+*.sqlite
+.idea/
+mongo/
+output/
+venv/
+.DS_Store
