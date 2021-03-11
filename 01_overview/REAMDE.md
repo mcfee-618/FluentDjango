@@ -19,7 +19,7 @@ Django 的这种结构我们称之为 MTV 模式：M 代表模型（Model），T
 ```
 django-admin startproject myProject
 cd myProject
-python3 manage.py startapp myAp
+python3 manage.py startapp myApp
 ```
 
 
